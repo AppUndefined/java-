@@ -25,6 +25,7 @@ class 二维数组中的查找 {
      */
     @Test
     void contextLoads() {
+        String a = "aaaa a";
         int [][] arr = {{1,  4,  7,  11, 15},
                         {2,  5,  8,  12, 19},
                         {3,  6,  9,  16, 22},
